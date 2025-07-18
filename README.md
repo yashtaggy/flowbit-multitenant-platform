@@ -37,3 +37,12 @@ flowbit-mfe-starter/
 ├── dashboard-app/      # Dashboard microfrontend
 ├── use-case-registry/  # registry.json maps tenant to screens
 └── README.md
+```
+
+## 📦 How to Run (Frontend Only)
+
+--> cd react-shell
+--> npm install
+--> npm start
+
+### Do the same for support-app/ and dashboard-app/.
