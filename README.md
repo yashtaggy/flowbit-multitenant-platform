@@ -92,7 +92,7 @@ flowbit-mfe-starter/
 
 ## 🧪 Known Limitations
 
-### 🔒 Auth system is incomplete (JWT login pending)
+##### 🔒 Auth system is incomplete (JWT login pending)
 
 ### 📄 Screens are hardcoded (no DB persistence yet)
 
