@@ -1,0 +1,11 @@
+[
+    {
+      "tenant": "LogisticsCo",
+      "screenUrl": "http://localhost:3001/remoteEntry.js"
+    },
+    {
+      "tenant": "RetailGmbH",
+      "screenUrl": "http://localhost:3002/remoteEntry.js"
+    }
+  ]
+  
