@@ -92,17 +92,17 @@ flowbit-mfe-starter/
 
 ## 🧪 Known Limitations
 
-##### 🔒 Auth system is incomplete (JWT login pending)
+#### 🔒 Auth system is incomplete (JWT login pending)
 
-### 📄 Screens are hardcoded (no DB persistence yet)
+#### 📄 Screens are hardcoded (no DB persistence yet)
 
-### 🔌 No integration with n8n workflows yet
+#### 🔌 No integration with n8n workflows yet
 
-### 🐳 No Docker Compose setup yet (to be added)
+#### 🐳 No Docker Compose setup yet (to be added)
 
-### 🧪 No test coverage or CI/CD workflow added
+#### 🧪 No test coverage or CI/CD workflow added
 
-### 💡 WebSocket / polling for UI updates is planned but not implemented
+#### 💡 WebSocket / polling for UI updates is planned but not implemented
 
 
 ## 📅 Estimated Timeline
